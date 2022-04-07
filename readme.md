@@ -1,11 +1,9 @@
-Dependendies can be installed by using the following command
+# Open3D volume calculation app which works on web
 
-pip install -r requirements.txt
+## Dependendies can be installed by using the following command
 
-Descriptions are written to the function declaration
+### pip install -r requirements.txt
 
-normalize_inpaint.py 
-    Inpaints the depth map by coloring the px to black according to mask
+### The port is configured to 5000
 
-volumecalc.py
-    Calculates the volume of the given image
+<h4 style="text-align:center" > Open3D </h4>
